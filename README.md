@@ -1,6 +1,7 @@
 # digitalclock
 
 🕒 Digital Clock ⏰
+
 A simple and responsive digital clock built using HTML, CSS, and JavaScript. This project displays the current time in hours, minutes, and seconds, updating every second in real-time.
 
 🚀 Features
